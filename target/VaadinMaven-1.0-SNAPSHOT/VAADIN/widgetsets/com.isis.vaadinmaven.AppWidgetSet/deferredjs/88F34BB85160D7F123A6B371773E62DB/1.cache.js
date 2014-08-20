@@ -1,0 +1,1 @@
+$wnd.com_isis_vaadinmaven_AppWidgetSet.runAsyncCallback1('i8(605,1,xnd);_.nc=function j$b(){DPb((!yPb&&(yPb=new EPb),yPb),this.b.e)};Fbd(Vh)(1);\n//# sourceURL=com.isis.vaadinmaven.AppWidgetSet-1.js\n')
